@@ -1,0 +1,17 @@
+Source: kodi-game-libretro-reminiscence
+Priority: extra
+Maintainer: wsnipex <wsnipex@a1.net>
+Build-Depends: debhelper (>= 9.0.0),
+               cmake,
+               kodi-addon-dev,
+               libretro-reminiscence (>= 0.3.6) | reminiscence (>= 0.3.6)
+Standards-Version: 3.9.8
+Section: libs
+
+Package: kodi-game-libretro-reminiscence
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
+Enhances: kodi
+Description: Flashback (REminiscence) core for kodi's retroplayer
+ Flashback (REminiscence) core for kodi's retroplayer
