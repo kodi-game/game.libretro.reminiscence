@@ -1,1 +1,1 @@
-reminiscence https://github.com/libretro/REminiscence/archive/6888c010a5886b06ea8c3ac18add29e1ba1fa6a6.zip
+reminiscence https://github.com/libretro/REminiscence/archive/eb72f37e4059292983a475aa38a4d4a61b9b8b89.zip
