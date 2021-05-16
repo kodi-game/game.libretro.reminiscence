@@ -15,7 +15,11 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Flashback (REminiscence) 0.3.6</summary>
-		<description lang="en_GB">Supported files: .map</description>
+		<description lang="en_GB">REminiscence is a rewrite of the engine used in the game Flashback from Delphine Software.
+
+The game data files (DOS, PC-CD, Amiga, Macintosh) are required.
+
+Supported files: .map</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.reminiscence</source>
