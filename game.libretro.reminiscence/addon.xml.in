@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.reminiscence"
 		name="Flashback (REminiscence)"
-		version="0.3.6.8"
+		version="0.3.6.9"
 		provider-name="Gregory Montoir, Stuart Carnie">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,6 +12,7 @@
 		<extensions>map</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv3</license>
