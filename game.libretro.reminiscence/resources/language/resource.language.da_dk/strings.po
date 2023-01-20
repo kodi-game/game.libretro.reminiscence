@@ -22,5 +22,5 @@ msgid "Flashback (REminiscence) 0.3.6"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "REminiscence is a rewrite of the engine used in the game Flashback from Delphine Software.[CR][CR]The game data files (DOS, PC-CD, Amiga, Macintosh) are required."
+msgid "REminiscence is a rewrite of the engine used in the 1992 game Flashback from Delphine Software.[CR][CR]The game data files (DOS, PC-CD, Amiga, Macintosh) are required."
 msgstr "Genminiscens er en omskrivning af den motor, der blev brugt i spillet Flashback fra Delphine Software.[CR][CR]Spildatafilerne (DOS, PC-CD, Amiga, Macintosh) er påkrævede."
