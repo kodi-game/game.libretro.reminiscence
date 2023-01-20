@@ -18,6 +18,9 @@
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.reminiscence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Flashback (REminiscence) 0.3.6</summary>
 		<description lang="da_DK">[CR]Genminiscens er en omskrivning af den motor, der blev brugt i spillet [CR]Flashback fra Delphine Software.[CR][CR]Spildatafilerne (DOS, PC-CD, Amiga, [CR]Macintosh) er påkrævede.</description>
 		<description lang="en_GB">REminiscence is a rewrite of the engine used in the 1992 game Flashback from Delphine Software.[CR][CR]The game data files (DOS, PC-CD, Amiga, Macintosh) are required.</description>
