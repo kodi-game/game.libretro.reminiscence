@@ -22,10 +22,10 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Flashback (REminiscence) 0.3.6</summary>
-		<description lang="da_DK">[CR]Genminiscens er en omskrivning af den motor, der blev brugt i spillet [CR]Flashback fra Delphine Software.[CR][CR]Spildatafilerne (DOS, PC-CD, Amiga, [CR]Macintosh) er påkrævede.</description>
+		<description lang="da_DK">[CR]Genminiscens er en omskrivning af den motor, der blev brugt i spillet [CR]Flashback fra Delphine Software.[CR][CR]Spildatafilerne (DOS, PC-CD, Amiga, [CR]Macintosh) er påkrævede.[CR][CR]Genminiscens er en omskrivning af den motor, der blev brugt i spillet [CR]Flashback fra Delphine Software.[CR][CR]Spildatafilerne (DOS, PC-CD, Amiga, [CR]Macintosh) er påkrævede.</description>
 		<description lang="en_GB">REminiscence is a rewrite of the engine used in the 1992 game Flashback from Delphine Software.[CR][CR]The game data files (DOS, PC-CD, Amiga, Macintosh) are required.</description>
-		<description lang="it_IT">[CR]REminiscence è una riscrittura del motore utilizzato nel gioco Flashback di [CR]Delphine Software.[CR][CR]Sono richiesti i file di dati del gioco (DOS, PC-[CR]CD, Amiga, Macintosh).</description>
-		<description lang="ko_KR">[CR]REminiscence는 Delphine Software의 Flashback 게임에 사용된 엔진을 재작성한 것[CR]입니다.[CR][CR]게임 데이터 파일(DOS, PC-CD, Amiga, Macintosh)이 필요합니다.</description>
-		<description lang="zh_CN">[CR]REminiscence 是对 Delphine 软件公司在游戏《闪回（Delphine）》中使用的引擎的重[CR]写。[CR][CR]需要游戏数据文件（DOS、PC-CD、Amiga、Macintosh）。</description>
+		<description lang="it_IT">[CR]REminiscence è una riscrittura del motore utilizzato nel gioco Flashback di [CR]Delphine Software.[CR][CR]Sono richiesti i file di dati del gioco (DOS, PC-[CR]CD, Amiga, Macintosh).[CR][CR]REminiscence è una riscrittura del motore utilizzato nel gioco Flashback di [CR]Delphine Software.[CR][CR]Sono richiesti i file di dati del gioco (DOS, PC-[CR]CD, Amiga, Macintosh).</description>
+		<description lang="ko_KR">[CR]REminiscence는 Delphine Software의 Flashback 게임에 사용된 엔진을 재작성한 것[CR]입니다.[CR][CR]게임 데이터 파일(DOS, PC-CD, Amiga, Macintosh)이 필요합니다.[CR][CR]REminiscence는 Delphine Software의 Flashback 게임에 사용된 엔진을 재작성한 것[CR]입니다.[CR][CR]게임 데이터 파일(DOS, PC-CD, Amiga, Macintosh)이 필요합니다.</description>
+		<description lang="zh_CN">[CR]REminiscence 是对 Delphine 软件公司在游戏《闪回（Delphine）》中使用的引擎的重[CR]写。[CR][CR]需要游戏数据文件（DOS、PC-CD、Amiga、Macintosh）。[CR][CR]REminiscence 是对 Delphine 软件公司在游戏《闪回（Delphine）》中使用的引擎的重[CR]写。[CR][CR]需要游戏数据文件（DOS、PC-CD、Amiga、Macintosh）。</description>
 	</extension>
 </addon>
