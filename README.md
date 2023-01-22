@@ -15,7 +15,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.reminiscence/resources/icon.png)
+![Flashback (REminiscence) icon](game.libretro.reminiscence/resources/icon.png)
 
 ### Fanart
 
