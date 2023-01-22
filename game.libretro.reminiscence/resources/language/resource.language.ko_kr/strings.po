@@ -24,17 +24,4 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "REminiscence is a rewrite of the engine used in the 1992 game Flashback from Delphine Software.[CR][CR]The game data files (DOS, PC-CD, Amiga, Macintosh) are required."
-msgstr "[CR]REminiscence는 Delphine Software의 Flashback 게임에 사용된 엔진을 재작성한 것[CR]입니다.[CR][CR]게임 데이터 파일(DOS, PC-CD, Amiga, Macintosh)이 필요합니다.[CR][CR]REminiscence는 Delphine Software의 Flashback 게임에 사용된 엔진을 재작성한 것[CR]입니다.[CR][CR]게임 데이터 파일(DOS, PC-CD, Amiga, Macintosh)이 필요합니다."
-
-"REminiscence는 Delphine Software의 Flashback 게임에 사용된 엔진을 재작성한 것"
-"입니다.[CR][CR]게임 데이터 파일(DOS, PC-CD, Amiga, Macintosh)이 필요합니다."
-
-#~ msgctxt "Addon Description"
-#~ msgid ""
-#~ "REminiscence is a rewrite of the engine used in the game Flashback from "
-#~ "Delphine Software.[CR][CR]The game data files (DOS, PC-CD, Amiga, "
-#~ "Macintosh) are required."
-#~ msgstr ""
-#~ "REminiscence는 Delphine Software의 Flashback 게임에 사용된 엔진을 재작성"
-#~ "한 것입니다.[CR][CR]게임 데이터 파일(DOS, PC-CD, Amiga, Macintosh)이 필요"
-#~ "합니다."
+msgstr "REminiscence는 Delphine Software의 Flashback 게임에 사용된 엔진을 재작성한 것입니다.[CR][CR]게임 데이터 파일(DOS, PC-CD, Amiga, Macintosh)이 필요합니다."
