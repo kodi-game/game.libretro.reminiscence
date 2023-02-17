@@ -23,7 +23,9 @@
 		</assets>
 		<summary lang="en_GB">Flashback (REminiscence) 0.3.6</summary>
 		<description lang="da_DK">REminiscence er en omskrivning af den motor, der blev brugt i 1992 i spillet Flashback fra Delphine Software.[CR][CR]Spildatafilerne (DOS, PC-CD, Amiga, Macintosh) er påkrævede.</description>
+		<description lang="de_DE">REminiscence ist eine Überarbeitung der Engine des Spiels Flashback von Delphine Software aus dem Jahr 1992[CR][CR]Die Spieldatendateien (DOS, PC-CD, Amiga, Macintosh) werden benötigt.</description>
 		<description lang="en_GB">REminiscence is a rewrite of the engine used in the 1992 game Flashback from Delphine Software.[CR][CR]The game data files (DOS, PC-CD, Amiga, Macintosh) are required.</description>
+		<description lang="es_ES">REminiscence es una reescritura del motor utilizado en el juego Flashback de 1992 de Delphine Software.[CR][CR]Se necesitan los archivos de datos del juego (DOS, PC-CD, Amiga, Macintosh).</description>
 		<description lang="it_IT">REminiscence è una riscrittura del motore utilizzato nel gioco Flashback di Delphine Software.[CR][CR]Sono richiesti i file di dati del gioco (DOS, PC-CD, Amiga, Macintosh).</description>
 		<description lang="ko_KR">REminiscence는 Delphine Software의 Flashback 게임에 사용된 엔진을 재작성한 것입니다.[CR][CR]게임 데이터 파일(DOS, PC-CD, Amiga, Macintosh)이 필요합니다.</description>
 		<description lang="zh_CN">REminiscence 是对 Delphine 软件公司在游戏《闪回（Delphine）》中使用的引擎的重写。[CR][CR]需要游戏数据文件（DOS、PC-CD、Amiga、Macintosh）。</description>
