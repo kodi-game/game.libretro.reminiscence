@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
-msgid "Flashback (REminiscence) 0.3.6"
+msgid "Flashback (REminiscence)"
 msgstr ""
 
 msgctxt "Addon Description"
@@ -26,11 +26,5 @@ msgid "REminiscence is a rewrite of the engine used in the 1992 game Flashback f
 msgstr "REminiscence es una reescritura del motor utilizado en el juego Flashback de 1992 de Delphine Software.[CR][CR]Se necesitan los archivos de datos del juego (DOS, PC-CD, Amiga, Macintosh)."
 
 #~ msgctxt "Addon Description"
-#~ msgid ""
-#~ "REminiscence is a rewrite of the engine used in the game Flashback from "
-#~ "Delphine Software.[CR][CR]The game data files (DOS, PC-CD, Amiga, "
-#~ "Macintosh) are required."
-#~ msgstr ""
-#~ "REminiscence es una reescritura del motor utilizado en el juego Flashback "
-#~ "de Delphine Software.[CR][CR]Se necesitan los archivos de datos del juego "
-#~ "(DOS, PC-CD, Amiga, Macintosh)."
+#~ msgid "REminiscence is a rewrite of the engine used in the game Flashback from Delphine Software.[CR][CR]The game data files (DOS, PC-CD, Amiga, Macintosh) are required."
+#~ msgstr "REminiscence es una reescritura del motor utilizado en el juego Flashback de Delphine Software.[CR][CR]Se necesitan los archivos de datos del juego (DOS, PC-CD, Amiga, Macintosh)."
