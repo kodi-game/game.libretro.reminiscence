@@ -1,1 +1,1 @@
-reminiscence https://github.com/libretro/REminiscence/archive/e80d7b1aa287010e30c54f72252a9303173f1c7e.tar.gz
+reminiscence https://github.com/libretro/REminiscence/archive/ba639f4eeaba94609a4ea2c9c2217992ce4e22e1.tar.gz
