@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.reminiscence"
 		name="Flashback (REminiscence)"
-		version="0.3.6.31"
+		version="0.3.6.32"
 		provider-name="Gregory Montoir, Stuart Carnie">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Flashback</platforms>
 		<extensions>map</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
